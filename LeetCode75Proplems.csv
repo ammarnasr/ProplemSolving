@@ -1,0 +1,77 @@
+Topic,Question,Link,Status
+Array,Two Sum,https://leetcode.com/problems/two-sum/,New
+Array,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,New
+Array,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,New
+Array,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,New
+Array,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,New
+Array,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,New
+Array,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,New
+Array,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,New
+Array,3Sum,https://leetcode.com/problems/3sum/,New
+Array,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,New
+Binary,Sum of Two Integers,https://leetcode.com/problems/sum-of-two-integers/,New
+Binary,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,New
+Binary,Counting Bits,https://leetcode.com/problems/counting-bits/,New
+Binary,Missing Number,https://leetcode.com/problems/missing-number/,New
+Binary,Reverse Bits,https://leetcode.com/problems/reverse-bits/,New
+Dynamic Programming,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,New
+Dynamic Programming,Coin Change,https://leetcode.com/problems/coin-change/,New
+Dynamic Programming,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,New
+Dynamic Programming,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,New
+Dynamic Programming,Word Break Problem,https://leetcode.com/problems/word-break/,New
+Dynamic Programming,Combination Sum,https://leetcode.com/problems/combination-sum-iv/,New
+Dynamic Programming,House Robber,https://leetcode.com/problems/house-robber/,New
+Dynamic Programming,House Robber II,https://leetcode.com/problems/house-robber-ii/,New
+Dynamic Programming,Decode Ways,https://leetcode.com/problems/decode-ways/,New
+Dynamic Programming,Unique Paths,https://leetcode.com/problems/unique-paths/,New
+Dynamic Programming,Jump Game,https://leetcode.com/problems/jump-game/,New
+Graph,Clone Graph,https://leetcode.com/problems/clone-graph/,New
+Graph,Course Schedule,https://leetcode.com/problems/course-schedule/,New
+Graph,Pacific Atlantic Water Flow,https://leetcode.com/problems/pacific-atlantic-water-flow/,New
+Graph,Number of Islands,https://leetcode.com/problems/number-of-islands/,New
+Graph,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,New
+Graph,Alien Dictionary (Leetcode Premium),https://leetcode.com/problems/alien-dictionary/,New
+Graph,Graph Valid Tree (Leetcode Premium),https://leetcode.com/problems/graph-valid-tree/,New
+Graph,Number of Connected Components in an Undirected Graph (Leetcode Premium),https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,New
+Interval,Insert Interval,https://leetcode.com/problems/insert-interval/,New
+Interval,Merge Intervals,https://leetcode.com/problems/merge-intervals/,New
+Interval,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,New
+Interval,Meeting Rooms (Leetcode Premium),https://leetcode.com/problems/meeting-rooms/,New
+Interval,Meeting Rooms II (Leetcode Premium),https://leetcode.com/problems/meeting-rooms-ii/,New
+Linked List,Reverse a Linked List,https://leetcode.com/problems/reverse-linked-list/,New
+Linked List,Detect Cycle in a Linked List,https://leetcode.com/problems/linked-list-cycle/,New
+Linked List,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,New
+Linked List,Merge K Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,New
+Linked List,Remove Nth Node From End Of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,New
+Linked List,Reorder List,https://leetcode.com/problems/reorder-list/,New
+Matrix,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,New
+Matrix,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,New
+Matrix,Rotate Image,https://leetcode.com/problems/rotate-image/,New
+Matrix,Word Search,https://leetcode.com/problems/word-search/,New
+String,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,New
+String,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,New
+String,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,New
+String,Valid Anagram,https://leetcode.com/problems/valid-anagram/,New
+String,Group Anagrams,https://leetcode.com/problems/group-anagrams/,New
+String,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,New
+String,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,New
+String,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,New
+String,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,New
+String,Encode and Decode Strings (Leetcode Premium),https://leetcode.com/problems/encode-and-decode-strings/,New
+Tree,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,New
+Tree,Same Tree,https://leetcode.com/problems/same-tree/,New
+Tree,Invert/Flip Binary Tree,https://leetcode.com/problems/invert-binary-tree/,New
+Tree,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Completed
+Tree,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,New
+Tree,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,New
+Tree,Subtree of Another Tree,https://leetcode.com/problems/subtree-of-another-tree/,New
+Tree,Construct Binary Tree from Preorder and Inorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,New
+Tree,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,New
+Tree,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,New
+Tree,Lowest Common Ancestor of BST,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,New
+Tree,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,New
+Tree,Add and Search Word,https://leetcode.com/problems/add-and-search-word-data-structure-design/,New
+Tree,Word Search II,https://leetcode.com/problems/word-search-ii/,New
+Heap,Merge K Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,New
+Heap,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,New
+Heap,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,New
