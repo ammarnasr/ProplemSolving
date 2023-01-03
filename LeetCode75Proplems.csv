@@ -1,5 +1,5 @@
 Topic,Question,Link,Status
-Array,Two Sum,https://leetcode.com/problems/two-sum/,New
+Array,Two Sum,https://leetcode.com/problems/two-sum/,Completed
 Array,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,New
 Array,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,New
 Array,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,New
@@ -61,7 +61,7 @@ String,Encode and Decode Strings (Leetcode Premium),https://leetcode.com/problem
 Tree,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,New
 Tree,Same Tree,https://leetcode.com/problems/same-tree/,New
 Tree,Invert/Flip Binary Tree,https://leetcode.com/problems/invert-binary-tree/,New
-Tree,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Completed
+Tree,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,New
 Tree,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,New
 Tree,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,New
 Tree,Subtree of Another Tree,https://leetcode.com/problems/subtree-of-another-tree/,New

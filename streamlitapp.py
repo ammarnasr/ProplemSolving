@@ -4,6 +4,7 @@ import random
 from streamlit_card import card
 import streamlit as st
 import matplotlib.pyplot as plt
+import os
 
 
 
@@ -46,10 +47,11 @@ links = df.loc[df.Topic == selected_topic]['Link'].values.tolist()
 statuses = df.loc[df.Topic == selected_topic]['Status'].values.tolist()
 
 for i in range(len(questions)):
-    col1, col2 = st.columns([3, 1])
+    col1, col2,col3 = st.columns([6, 3, 1])
     card_title = questions[i]
     card_url = links[i]
     card_status = statuses[i]
+    outputFilename = f'{selected_topic} {card_title}.py'
 
     with col1:
         _ = card(title=card_title,text=card_status, image=bgs[card_status],url=card_url)
@@ -63,6 +65,18 @@ for i in range(len(questions)):
             update_status(card_title, new_status)
             st.success('Status Updated Successfully')
             st.warning('Reload Page to see Effects')
+    # with col3 :
+    #     if os.path.exists(outputFilename):
+    #         with open(outputFilename, "r") as file:
+    #             contents = file.read()
+    #         st.code(contents, language="python")
+    #     else:
+    #         contents = st.text_input(f"Enter your Code for {card_title}:", value="def main:")
+    #         with open(outputFilename, "w") as file:
+    #             file.write(contents)
+    #         st.code(contents, language="python")
+
+
 
 
 
