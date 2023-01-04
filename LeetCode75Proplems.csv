@@ -5,7 +5,7 @@ Array,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,New
 Array,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,New
 Array,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Completed
 Array,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,New
-Array,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,New
+Array,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,inProgress
 Array,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,New
 Array,3Sum,https://leetcode.com/problems/3sum/,New
 Array,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,New
@@ -54,7 +54,7 @@ String,Minimum Window Substring,https://leetcode.com/problems/minimum-window-sub
 String,Valid Anagram,https://leetcode.com/problems/valid-anagram/,New
 String,Group Anagrams,https://leetcode.com/problems/group-anagrams/,New
 String,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,New
-String,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,New
+String,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Completed
 String,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,New
 String,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,New
 String,Encode and Decode Strings (Leetcode Premium),https://leetcode.com/problems/encode-and-decode-strings/,New
