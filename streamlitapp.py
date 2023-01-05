@@ -24,6 +24,16 @@ bgs = {
     'inProgress': 'https://github.com/ammarnasr/ProplemSolving/blob/main/inProgress.png?raw=true',
 }
 
+new_only_df = df.loc[df['Status']== 'New']
+rand_row = df.sample()
+random_card_title = rand_row['Question'].iloc[0]
+random_card_url = rand_row['Link'].iloc[0]
+random_card_status = 'Random Proplem (Refresh to change)'
+_ = card(title=random_card_title,text=random_card_status, image=bgs['New'],url=random_card_url)
+show_topic = st.checkbox(f'Show Topic?')
+if show_topic:
+    st.info(rand_row['Topic'].iloc[0] )
+
 fig, ax = plt.subplots()
 available_statuses = ['New', 'Completed', 'inProgress']
 counts = [len(df.loc[df.Status == s])/len(df) for s in available_statuses]
