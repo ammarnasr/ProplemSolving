@@ -8,7 +8,6 @@ import os
 
 
 
-
 filename = 'LeetCode75Proplems.csv'
 df = pd.read_csv(filename)
 # st.table(df)
@@ -37,8 +36,15 @@ if show_topic:
 fig, ax = plt.subplots()
 available_statuses = ['New', 'Completed', 'inProgress']
 counts = [len(df.loc[df.Status == s])/len(df) for s in available_statuses]
-ax.pie(counts, labels=available_statuses)
-st.pyplot(fig)
+ax.pie(counts, labels=available_statuses,  autopct='%1.1f%%')
+c1, c2 = st.columns([4, 2])
+with c1:
+    st.pyplot(fig)
+with c2:
+    d = {}
+    for status in available_statuses:
+        d[status] = counts[available_statuses.index(status)] * len(df)
+    st.write(d)
 
 topics = df.Topic.value_counts().index.tolist()
 topics_options = df.Topic.value_counts().index.tolist()
